@@ -1,4 +1,4 @@
-# SimpleServer
+# SimpleStore
 ### The project is a Spring Boot-based application designed to manage a product catalog with various features including CRUD operations, image management, CORS handling, and search functionality. It uses an H2 in-memory database for development purposes and includes a structured approach with separate layers for controllers, services, and repositories.
 - Basic Setup:Initializes the project with essential components like a product model and a controller to handle web requests.
 - Data Management:Uses an in-memory H2 database to store and manage product data.
